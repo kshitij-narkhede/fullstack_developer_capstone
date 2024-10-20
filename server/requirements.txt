@@ -1,5 +1,4 @@
 requests
 Django
-Pillow
-gunicorn
-python-dotenv
+gunicorn==20.0.4
+Pillow==8.0.1
